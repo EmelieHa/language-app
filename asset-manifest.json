@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/language-app/static/css/main.11de9c9f.css",
+    "main.js": "/language-app/static/js/main.14af74ea.js",
+    "static/js/787.7ec1bbde.chunk.js": "/language-app/static/js/787.7ec1bbde.chunk.js",
+    "static/media/britain.png": "/language-app/static/media/britain.77bf284bd8f3b08f279b.png",
+    "static/media/germany.png": "/language-app/static/media/germany.22c851c8979c6c6bcce6.png",
+    "index.html": "/language-app/index.html",
+    "main.11de9c9f.css.map": "/language-app/static/css/main.11de9c9f.css.map",
+    "main.14af74ea.js.map": "/language-app/static/js/main.14af74ea.js.map",
+    "787.7ec1bbde.chunk.js.map": "/language-app/static/js/787.7ec1bbde.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11de9c9f.css",
+    "static/js/main.14af74ea.js"
+  ]
+}
